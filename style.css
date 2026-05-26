@@ -6,71 +6,67 @@ body  {
     margin: 0;
     padding: 0;
     background-image: radial-gradient(#dee2e6 1px, transparent 1px);
-    background-size: 30px 30px;
-}
-.container {
+    background-size: 30px 30px;}
+
+container {
 max-width: 900px;
 margin: 40px auto;
 background: rgba(255, 255, 255, 0.95);
 padding: 40px;
  border-radius: 15px;
-box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-}
+box-shadow: 0 10px 30px rgba(0,0,0,0.05);}
+
 h1 {
     color: #22223b;
     font-family: 'Georgia', serif;
-    background-color: #c9ada7 !important;
+    background-color: #c9ada7;
     padding: 20px;
     text-align: center;
     border-radius: 8px;
-    font-size: 2.5rem;
-}
+    font-size: 2.5rem;}
+
 h2 {
     border-bottom: 2px solid #9a8c98;
     color: #4a4e69;
     padding-bottom: 10px;
-    margin-top: 30px;
-}
+    margin-top: 30px;}
+
 details {
     background: #f2e9e4;
     padding: 10px 20px;
 border-radius: 8px;
     margin-bottom: 10px;
-    transition: all 0.3s ease;
-}
+    transition: all 0.3s ease;}
+
 details:hover {
-    background: #e9ecef;
-}
+    background: #e9ecef;}
+
 summary {
     font-weight: bold;
     cursor: pointer;
     outline: none;
-padding: 5px;
-  }
-.Pure-Mathematics {
-border-left: 5px solid #9a8c98;
-}
+padding: 5px;}
+
+Pure-Mathematics {
+border-left: 5px solid #9a8c98;}
 
 .Applied-Mathematics {
     border-left: 5px solid #84a59d;
-    background-color: #f8fdfc !important;
-}
+    background-color: #f8fdfc;}
+
 a {
     color: #4a4e69;
     text-decoration: underline dotted;
-    transition: color 0.3s;
-} 
+    transition: color 0.3s;} 
 
 
 a:hover {
     color: #22223b;
-    text-decoration: solid underline;
-    
-}
+    text-decoration: solid underline;}
+
 ul, ol {
-    padding-left: 25px;
-}
+    padding-left: 25px;}
+
 li {
-    margin-bottom: 8px;
-}
-}
+    margin-bottom: 8px;}
+
